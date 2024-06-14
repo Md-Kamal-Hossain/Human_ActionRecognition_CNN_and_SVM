@@ -86,4 +86,5 @@ while(cap.isOpened()):
         break
 cap.release()
 cv2.destroyallwindows()
+print("checking triggerer working or not!)
     
